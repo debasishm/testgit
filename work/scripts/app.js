@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-
+//see this is the js script where i have added some comments
 (function() {
   'use strict';
 
